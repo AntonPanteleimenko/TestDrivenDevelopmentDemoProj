@@ -248,7 +248,7 @@ class NotificationMock: NotificationGetter {
 
 [Unit Testing and Test Doubles in Swift](https://medium.com/mobil-dev/unit-testing-and-test-doubles-in-swift-5b5e93e68512)
 
-Now go on and create your first WidgetKit App 💪
+Now go on and start writing your own tests 💪
 
 ## Developed By
 
